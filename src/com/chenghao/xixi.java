@@ -7,7 +7,7 @@ public class xixi {
             System.out.println(j[i;])
         }*/
         for (int i : j) {
-            System.out.println(i);
+            System.out.println("112");
         }
 
     }
